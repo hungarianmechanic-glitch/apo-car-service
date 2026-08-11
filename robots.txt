@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hungarianmechanic-glitch.github.io/apo-car-service/sitemap.xml
